@@ -38,6 +38,7 @@ function App() {
         phoneNumber={contact[4].phoneNumber}
         email={contact[4].email}
       />
+      <Avatar img="sushant.jpg" />
     </>
   );
 }
